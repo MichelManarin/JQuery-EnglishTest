@@ -12,4 +12,5 @@ No projeto falta algumas folhas de estilos, mas você poderá visualizar o proje
 - Phothoshop
 
 ### Imagem do projeto
-![firebase](https://user-images.githubusercontent.com/6588753/42545541-039da868-848f-11e8-8516-384efbec7621.png)
+![englishtest](https://user-images.githubusercontent.com/6588753/42545901-f7be7282-8490-11e8-92a2-a90242ab8f98.png)
+
